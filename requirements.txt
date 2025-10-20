@@ -1,2 +1,2 @@
-altair==5.5.0
+altair==4.2.0
 streamlit==1.15.0
